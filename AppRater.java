@@ -1,5 +1,3 @@
-package com.tapdom.apprater;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
@@ -30,8 +28,8 @@ import android.widget.TextView;
  *
  */
 public class AppRater {
-    private final static String APP_TITLE = "Iconic Memory";
-    private final static String APP_PNAME = "com.fourfeetsoftware.iconic";
+    private final static String APP_TITLE = "YOUR-APP-NAME";
+    private final static String APP_PNAME = "YOUR-PACKAGE-NAME";
     
     private final static int DAYS_UNTIL_PROMPT = 3;
     private final static int LAUNCHES_UNTIL_PROMPT = 7;
